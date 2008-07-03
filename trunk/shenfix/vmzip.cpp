@@ -1,6 +1,7 @@
+// $Id$
 /********************************************************************
  * VMZip v1.0.0 (Aug/2005)
- * vmzip.cpp - coded by El Bucanero
+ * coded by El Bucanero
  *
  * Copyright (C) 2005 Damian Parrino <bucanero@fibertel.com.ar>
  * http://www.bucanero.com.ar/
